@@ -1,6 +1,6 @@
 .root{
     -fx-background-color: #34495e;
-    -fx-background-image: url("menu.gif");
+    -fx-background-image: url("menuBG.jpg");
     -fx-background-size: 1920 1080;
  }
 .button
