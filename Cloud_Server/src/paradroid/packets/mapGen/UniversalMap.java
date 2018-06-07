@@ -1,6 +1,6 @@
 package paradroid.packets.mapGen;
 
-import com.paradroid.main.Game;
+import com.polymorphous.main.Game;
 
 import java.awt.*;
 import java.util.HashMap;
