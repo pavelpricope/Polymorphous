@@ -1,14 +1,14 @@
-Learner:276/10
-Bomberbaby:276/50
-Bomberman:276/150
-Pentakill:31/5
-Killing spree:31/15
-Assassin:31/30
+Learner:278/10
+Bomberbaby:278/50
+Bomberman:278/150
+Pentakill:32/5
+Killing spree:32/15
+Assassin:32/30
 Kamikaze:0/10
 Boot Camp:0/10
-Sonic:135/75
-Super Saiyan:135/150
-DecaKill:129/10
+Sonic:136/75
+Super Saiyan:136/150
+DecaKill:130/10
 Domination:0/30
 Legendary:0/50
 Private:0/10
